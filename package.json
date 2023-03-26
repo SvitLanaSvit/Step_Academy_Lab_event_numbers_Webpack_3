@@ -1,0 +1,23 @@
+{
+  "name": "lab_event_numbers_webpack_3",
+  "version": "1.0.0",
+  "description": "lab webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "keywords": [
+    "event",
+    "webpack"
+  ],
+  "author": "Svitlana Kizilpinar",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.76.3"
+  },
+  "dependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
